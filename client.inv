@@ -1,1 +1,2 @@
-tomcatclient
+tomcatclient ansible_user=root
+
