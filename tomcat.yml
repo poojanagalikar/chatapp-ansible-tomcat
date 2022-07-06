@@ -10,7 +10,7 @@
   tasks:
     - name: install java 
       apt:
-        name: default-jre
+        name: default-jdk
         state: present 
     - name: add group tomcat
       group:
